@@ -12,8 +12,6 @@ int main(){
 	int harga_buku;
 	int harga_penghapus;
 	int harga_penggaris;
-	
-	
 	cout<<"Harga Pena		: Rp. ";
 	cin>>harga_pena;
 	cout<<"Harga Buku		: Rp. ";
@@ -22,8 +20,6 @@ int main(){
 	cin>>harga_penghapus;
 	cout<<"Harga Penggaris		: Rp. ";
 	cin>>harga_penggaris;
-	
-	
 	cout
 	<<endl
 	<<"========= Daftar Belanjaan ========="<<endl
